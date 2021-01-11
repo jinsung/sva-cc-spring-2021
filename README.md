@@ -84,10 +84,10 @@
 ### Week 5 -- Nested Loop
  * Homework2: Design your art with many shapes using [For loop](https://p5js.org/reference/#/p5/for)
  * Zach Lieberman    
-  * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
-  * [IQ Font](https://vimeo.com/5233789)
-  * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
-  * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
+    * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
+    * [IQ Font](https://vimeo.com/5233789)
+    * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
+    * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
