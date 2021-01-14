@@ -31,18 +31,21 @@
     * [John Maeda Morisawa 10](https://maedastudio.com/morisawa-10-2016/)
     * [Eyeo 2013 - James Paterson](https://vimeo.com/69323991)
     * [Zach Liberman's Instagram](https://www.instagram.com/zach.lieberman/?hl=en)
-  * Course Intro
-    * Overview / Syllabus
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * The history of [P5.js](https://p5js.org/) and [Processing](https://processing.org/)
   * [Editor](https://editor.p5js.org/)
+  * Course Intro
+    * Overview / Syllabus
     
 ### Week 2 -- Shape / Variables
   * [John Maeda Ted 2012](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders)
   * [Step-by-step approach](https://www.youtube.com/watch?v=cDA3_5982h8)
   * Programming languages
+    * Low-level / high-level languages
     * Interpreted language
     * Client / Server side languages
+  * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+  * [Editor](https://editor.p5js.org/)
   * [Setup / Draw Functions](https://editor.p5js.org/jinsung/sketches/nbKQODiF8)
   * Canvas, Pixels and Color
     * Coordinate system
@@ -64,38 +67,33 @@
     * Declare, Initialize, and Use
     * Type of the variable (Number, String, Boolean)
     * Scope
- * Animation
+ * Debug
+    * console.log
+    * Javascript Debugger
  * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
  * [Random](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
- * Debug
-    * Javascript Debugger
 
 ### Week 4 -- Loop
- * Homework1: Create a [bouncing ball](https://jinsung.github.io/sva-cc-fall-2017/week04/examples/04_bouncing_ball/index.html) with your own design
  * [Kyle McDonald](https://kylemcdonald.net/)
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
- * [For Loop / Curves](https://editor.p5js.org/jinsung/sketches/qUt5uC0GX)
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
 
 ### Week 5 -- Nested Loop
- * Homework2: Design your art with many shapes using [For loop](https://p5js.org/reference/#/p5/for)
  * Zach Lieberman    
-    * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
+ * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
- * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
- * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
+ * Debugger
+ * [For Loop Again](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
- * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
- * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
 ### Week 6 -- 2D Transformation / Function
  * Daito Manabe
@@ -110,38 +108,42 @@
  * Function
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
- * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
 
 ### Week 7 -- Function, Clock, and Object
  * [three.js](https://threejs.org/)
  * Function
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
- * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV) 
- * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
- * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
- * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
+ * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
+ * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
 
 ### Week 8 -- Object and Array
  * [DIA Studio](http://dia.tv/)
+ * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
+ * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
+ * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
 
-### Week 9 -- Capture / Image / Pixels
- * Midterm Due
+### Week 9 -- Letter Animation
+ * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
+ * [THA LTD.](http://tha.jp/works/)
+ * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
+ * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
+ * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
+ * [Letter Animation 3-1](https://editor.p5js.org/jinsung/sketches/_j2Xx0VqV)
+ * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
+ 
+### Week 10 -- Image
  * [ml5](https://learn.ml5js.org/docs/#/)
  * [posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
  * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
- * [Capture](https://editor.p5js.org/jinsung/sketches/75VwrucCf)
- * [Cpature 2](https://editor.p5js.org/jinsung/sketches/YpbuO7HAp)
- * [Cpature 3](https://editor.p5js.org/jinsung/sketches/aBtGP0KvK)
- * [Slit-scan](https://editor.p5js.org/jinsung/sketches/Gb_C_ivyX)
  * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
  * [Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
  * [Posenet](https://editor.p5js.org/jinsung/sketches/u59xzxU4L)
 
-### Week 10 -- Vector / Force
+### Week 11 -- Vector / Force
  * [Matter.js](https://brm.io/matter-js/)
  * Vector (Class)
   * Vector vs Point
@@ -151,14 +153,16 @@
  * [Friction](https://editor.p5js.org/jinsung/sketches/o-pAFmMop)
  * [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 
-### Week 11 -- Particle System
+### Week 12 -- Particle System
  * [Robert Hodgin](http://roberthodgin.com/)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
+ 
+### Week 14 -- 1:1 Meeting
+
+### Week 15 -- Particle System 2 / Final Project Presentation
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
- 
- ### Week 12  / Final Project Presentation
 
 ## Students with Disabilities
 
