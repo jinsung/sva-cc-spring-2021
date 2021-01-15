@@ -32,6 +32,8 @@
     * [Eyeo 2013 - James Paterson](https://vimeo.com/69323991)
     * [Zach Liberman's Instagram](https://www.instagram.com/zach.lieberman/?hl=en)
   * The history of [P5.js](https://p5js.org/) and [Processing](https://processing.org/)
+    * [Design by numbers](https://mitpress.mit.edu/books/design-numbers)
+    * [The aesthetics + computation group](https://acg.media.mit.edu/)
   * [P5.js](https://p5js.org/) and [Javascript](https://en.wikipedia.org/wiki/JavaScript)
   * [Editor](https://editor.p5js.org/)
   * Course Intro
