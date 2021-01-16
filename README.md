@@ -1,6 +1,7 @@
 # Creative Computing
 - Spring, 2021
 - Instructor: Jin Sung Yoo - ujinsung@gmail.com
+- Discord: https://discord.gg/CWb4eDECJ8
 - Class Times: Friday, 6:45 PM - 9:35 PM
 
 ## DESCRIPTION
