@@ -61,6 +61,7 @@
 ### Week 3 -- Bouncing Ball!
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
+ * Presenters: Mirae, Zhiwei, Zao
  * [Variables](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
     * Built-in or User-defined
     * Declare, Initialize, and Use
