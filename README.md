@@ -67,9 +67,6 @@
     * Declare, Initialize, and Use
     * Type of the variable (Number, String, Boolean)
     * Scope
- * Debug
-    * console.log
-    * Javascript Debugger
  * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
  * [Random](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
@@ -82,6 +79,9 @@
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
+ * Debug
+    * console.log
+    * Javascript Debugger
 
 ### Week 5 -- Nested Loop
  * Zach Lieberman    
