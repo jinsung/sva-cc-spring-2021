@@ -73,6 +73,7 @@
 
 ### Week 4 -- Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
+ * Presenters: Brendan, Aline, and Jialin
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
