@@ -8,6 +8,7 @@
 * [HW1](https://editor.p5js.org/kyleintheclouds/present/NqoYMNDVh)
 
 ### Mirae
+* [HW1]((https://editor.p5js.org/mhan14/present/GG8zAmhfV)
 
 ### Chia-Ling
 
@@ -28,5 +29,6 @@
 * [HW1-2](https://editor.p5js.org/alinux_xx/sketches/eSV1ZHRsG)
 
 ### So Jeong
+* [HW1-2](https://editor.p5js.org/ssim3/sketches/EbeGIzi-z)
 
 
