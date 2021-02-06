@@ -73,7 +73,7 @@
 
 ### Week 4 -- Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
- * Presenters: Brendan, Aline, and Jialin
+ * Presenters: Brendan, Aline
  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
@@ -86,6 +86,7 @@
 
 ### Week 5 -- Nested Loop
  * Zach Lieberman    
+ * Presenters: Jialin
  * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
