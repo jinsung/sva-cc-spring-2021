@@ -8,7 +8,7 @@
 * [HW1](https://editor.p5js.org/kyleintheclouds/present/NqoYMNDVh)
 
 ### Mirae
-* [HW1]((https://editor.p5js.org/mhan14/present/GG8zAmhfV)
+* [HW1](https://editor.p5js.org/mhan14/present/GG8zAmhfV)
 
 ### Chia-Ling
 
@@ -19,6 +19,7 @@
 * [HW1](https://editor.p5js.org/elee77/sketches/xYHkmHbZS)
 
 ### Zao
+* [HW1](https://editor.p5js.org/ZAO1023/present/yIpRVEMtz)
 
 ### Jialin
 
