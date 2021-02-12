@@ -80,9 +80,6 @@
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
- * Debug
-    * console.log
-    * Javascript Debugger
 
 ### Week 5 -- Nested Loop
  * Zach Lieberman    
@@ -91,7 +88,9 @@
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
- * Debugger
+ * Debug
+    * console.log
+    * Javascript Debugger
  * [For Loop Again](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
