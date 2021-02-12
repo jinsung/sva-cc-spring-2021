@@ -21,6 +21,7 @@
 
 ### Eui Soo
 * [HW1](https://editor.p5js.org/elee77/sketches/xYHkmHbZS)
+* [HW2](https://editor.p5js.org/elee77/sketches/eq1WaFA9l)
 
 ### Zao
 * [HW1](https://editor.p5js.org/ZAO1023/present/yIpRVEMtz)
@@ -38,6 +39,7 @@
 * [HW2](https://editor.p5js.org/alinux_xx/sketches/u9y2aEytd)
 
 ### So Jeong
-* [HW1-2](https://editor.p5js.org/ssim3/sketches/EbeGIzi-z)
+* [HW1](https://editor.p5js.org/ssim3/sketches/EbeGIzi-z)
+* [HW2](https://editor.p5js.org/ssim3/sketches/j7rMpNjJr)
 
 
