@@ -86,7 +86,7 @@
 
 ### Week 5 -- Nested Loop
  * Zach Lieberman    
- * Presenters: Jialin
+ * Presenters: Jialin, Eyal, Chia-Ling
  * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [IQ Font](https://vimeo.com/5233789)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
