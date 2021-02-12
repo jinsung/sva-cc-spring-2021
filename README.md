@@ -91,10 +91,13 @@
  * Debug
     * console.log
     * Javascript Debugger
- * [For Loop Again](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
+ * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
+ * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
+ * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
+ * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
 ### Week 6 -- 2D Transformation / Function
  * Daito Manabe
@@ -109,6 +112,8 @@
  * Function
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
+ * Clock
+    * Maeda's clocks
 
 ### Week 7 -- Function, Clock, and Object
  * [three.js](https://threejs.org/)
