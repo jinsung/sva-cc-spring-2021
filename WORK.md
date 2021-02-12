@@ -1,5 +1,6 @@
 ### Hyoung Rok
 * [HW1](https://editor.p5js.org/rok_c/sketches/6TGpQl2Sa)
+* [HW2](https://editor.p5js.org/rok_c/sketches/tVJ09Zf0x)
 
 ### Eval
 * [HW1](https://editor.p5js.org/echowers/sketches/KxiRVckpb)
@@ -14,6 +15,7 @@
 
 ### Chia-Ling
 * [HW1](https://editor.p5js.org/ckao2/sketches/XmFDyD0dV)
+* [HW2](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
 
 ### Brendan
 * [HW1](https://editor.p5js.org/bleddy/present/lvdcG82U4)
