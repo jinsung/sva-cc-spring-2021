@@ -94,10 +94,6 @@
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
- * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
- * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
- * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
- * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
 
 ### Week 6 -- 2D Transformation / Function
  * Daito Manabe
@@ -106,19 +102,19 @@
     * [discrete figures at Spiral Hall Tokyo](https://www.youtube.com/watch?time_continue=88&v=hauXQQhwbgM)
     * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
  * Presenters: Jialin, Kyle, Hyoung Rok
+ * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
+ * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
+ * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Radians & Degrees
     * Translate / Rotate / Scale
     * Push / Pop
- * Function
-    * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
-    * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
- * Clock
-    * Maeda's clocks
 
 ### Week 7 -- Function, Clock, and Object
  * [three.js](https://threejs.org/)
  * Function
+    * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
