@@ -103,6 +103,7 @@
     * [Perfume Live at SXSW | STORY (SXSW-MIX)](https://www.youtube.com/watch?v=zZiPIgCtIxg)
  * Presenters: Jialin, Kyle, Hyoung Rok
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
+ * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
  * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
