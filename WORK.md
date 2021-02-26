@@ -6,13 +6,17 @@
 ### Eval
 * [HW1](https://editor.p5js.org/echowers/sketches/KxiRVckpb)
 * [HW2](https://editor.p5js.org/echowers/sketches/s2UEPliNS)
+* [HW3](https://editor.p5js.org/echowers/sketches/8GSyyJpLd)
 
 ### Kyle
 * [HW1](https://editor.p5js.org/kyleintheclouds/present/NqoYMNDVh)
 * [HW2](https://editor.p5js.org/kyleintheclouds/sketches/6Mh3sRK3H)
+* [HW3](https://editor.p5js.org/kyleintheclouds/present/bbcQwHrbq)
 
 ### Mirae
 * [HW1](https://editor.p5js.org/mhan14/present/GG8zAmhfV)
+* [Hw2](https://editor.p5js.org/mhan14/sketches/p3iK9uORr)
+* [HW3](https://editor.p5js.org/mhan14/sketches/88DRgCJRV)
 
 ### Chia-Ling
 * [HW1](https://editor.p5js.org/ckao2/sketches/XmFDyD0dV)
