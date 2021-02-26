@@ -115,6 +115,7 @@
 
 ### Week 7 -- Function, Clock, and Object
  * [three.js](https://threejs.org/)
+ * Presenters: So Jeong
  * Function
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
@@ -123,6 +124,7 @@
 
 ### Week 8 -- Object and Array
  * [DIA Studio](http://dia.tv/)
+ * Presenter: Philip
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
