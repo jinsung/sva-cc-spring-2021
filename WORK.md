@@ -1,6 +1,7 @@
 ### Hyoung Rok
 * [HW1](https://editor.p5js.org/rok_c/sketches/6TGpQl2Sa)
 * [HW2](https://editor.p5js.org/rok_c/sketches/tVJ09Zf0x)
+* [HW3](https://editor.p5js.org/rok_c/sketches/8HG6s-Jyd)
 
 ### Eval
 * [HW1](https://editor.p5js.org/echowers/sketches/KxiRVckpb)
@@ -20,6 +21,7 @@
 ### Brendan
 * [HW1](https://editor.p5js.org/bleddy/present/lvdcG82U4)
 * [HW2](https://editor.p5js.org/bleddy/full/87lJzUY3K)
+* [HW3](https://editor.p5js.org/bleddy/sketches/MQJDMpMpJ)
 
 ### Eui Soo
 * [HW1](https://editor.p5js.org/elee77/sketches/xYHkmHbZS)
@@ -34,11 +36,13 @@
 
 ### Zhiwei
 * [HW1](https://editor.p5js.org/zhiv_liu/sketches/rRF_fQA38)
+* [HW3](https://editor.p5js.org/zhiv_liu/sketches/Fh5g72s50)
 
 ### Aline
 * [HW1-1](https://editor.p5js.org/alinux_xx/sketches/-ZXeUlU4x)
 * [HW1-2](https://editor.p5js.org/alinux_xx/sketches/eSV1ZHRsG)
 * [HW2](https://editor.p5js.org/alinux_xx/sketches/u9y2aEytd)
+* [HW3](https://editor.p5js.org/alinux_xx/sketches/cw39xz3fw)
 
 ### So Jeong
 * [HW1](https://editor.p5js.org/ssim3/sketches/EbeGIzi-z)
