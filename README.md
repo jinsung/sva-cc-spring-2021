@@ -133,6 +133,7 @@
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
 
 ### Week 9 -- Letter Animation
+ * Mid-term
  * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
  * [THA LTD.](http://tha.jp/works/)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
