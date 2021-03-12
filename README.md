@@ -120,11 +120,11 @@
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
- * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
 
 ### Week 8 -- Object and Array
  * [DIA Studio](http://dia.tv/)
  * Presenter: Philip
+ * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
@@ -133,7 +133,7 @@
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
 
 ### Week 9 -- Letter Animation
- * Mid-term
+ * Mid-term Due
  * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
  * [THA LTD.](http://tha.jp/works/)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
@@ -165,6 +165,8 @@
  * [Robert Hodgin](http://roberthodgin.com/)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
+
+### Week 13 -- TBD
  
 ### Week 14 -- 1:1 Meeting
 
