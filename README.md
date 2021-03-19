@@ -113,7 +113,7 @@
     * Translate / Rotate / Scale
     * Push / Pop
 
-### Week 7 -- Function, Clock, and Object
+### Week 7 -- Function, Clock
  * [three.js](https://threejs.org/)
  * Presenters: So Jeong
  * Function
@@ -129,15 +129,17 @@
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
- * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
- * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
-
-### Week 9 -- Letter Animation
+ 
+### Week 9 -- Object and Array Practice
  * Mid-term Due
  * [IBM Think Exhibit](https://www.youtube.com/watch?v=JVrXAsYd1Wk)
  * [THA LTD.](http://tha.jp/works/)
+ * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
+ * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
  * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
+
+### Week 10 -- Object and Array Practice
  * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
  * [Letter Animation 3-1](https://editor.p5js.org/jinsung/sketches/_j2Xx0VqV)
  * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
@@ -165,8 +167,6 @@
  * [Robert Hodgin](http://roberthodgin.com/)
  * [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
-
-### Week 13 -- TBD
  
 ### Week 14 -- 1:1 Meeting
 
