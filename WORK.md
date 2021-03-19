@@ -2,12 +2,13 @@
 * [HW1](https://editor.p5js.org/rok_c/sketches/6TGpQl2Sa)
 * [HW2](https://editor.p5js.org/rok_c/sketches/tVJ09Zf0x)
 * [HW3](https://editor.p5js.org/rok_c/sketches/8HG6s-Jyd)
+* [Midterm](https://editor.p5js.org/rok_c/sketches/hbZ22Jo-1)
 
 ### Eyal
 * [HW1](https://editor.p5js.org/echowers/sketches/KxiRVckpb)
 * [HW2](https://editor.p5js.org/echowers/sketches/s2UEPliNS)
 * [HW3](https://editor.p5js.org/echowers/sketches/8GSyyJpLd)
-* https://editor.p5js.org/echowers/sketches/tYN53sbS1
+* [Midterm](https://editor.p5js.org/echowers/sketches/tYN53sbS1)
 
 ### Kyle
 * [HW1](https://editor.p5js.org/kyleintheclouds/present/NqoYMNDVh)
@@ -61,6 +62,7 @@
 ### So Jeong
 * [HW1](https://editor.p5js.org/ssim3/sketches/EbeGIzi-z)
 * [HW2](https://editor.p5js.org/ssim3/sketches/j7rMpNjJr)
+* [Midterm](https://editor.p5js.org/ssim3/sketches/Y79PyLCvb)
 
 
 
