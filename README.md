@@ -136,10 +136,10 @@
  * [THA LTD.](http://tha.jp/works/)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
+ 
+### Week 10 -- Object and Array Practice
  * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
  * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
-
-### Week 10 -- Object and Array Practice
  * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
  * [Letter Animation 3-1](https://editor.p5js.org/jinsung/sketches/_j2Xx0VqV)
  * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
