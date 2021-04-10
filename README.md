@@ -169,7 +169,7 @@
  * [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
  
 ### Week 14 -- 1:1 Meeting
-
+ * https://docs.google.com/spreadsheets/d/1pljnZLFBGNlKc5e746sxKHQr9ZFCjMo8RVRQ8WUzX7A/edit#gid=0
 ### Week 15 -- Particle System 2 / Final Project Presentation
  * [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
  * [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
