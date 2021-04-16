@@ -15,6 +15,8 @@
 * [HW2](https://editor.p5js.org/kyleintheclouds/sketches/6Mh3sRK3H)
 * [HW3](https://editor.p5js.org/kyleintheclouds/present/bbcQwHrbq)
 * [Midterm](https://editor.p5js.org/kyleintheclouds/present/JGgPFqXx1)
+* [HW4](https://editor.p5js.org/kyleintheclouds/present/X-M15-373)
+* [HW4-2](https://editor.p5js.org/kyleintheclouds/present/q0rkN6e5I)
 
 ### Mirae
 * [HW1](https://editor.p5js.org/mhan14/present/GG8zAmhfV)
@@ -27,6 +29,7 @@
 * [HW2](https://editor.p5js.org/ckao2/sketches/BgCuGyYft)
 * [HW3](https://editor.p5js.org/ckao2/present/0YK3AWfiZ)
 * [Midterm](https://editor.p5js.org/ckao2/present/w30IIiKNN)
+* [HW4](https://editor.p5js.org/ckao2/sketches/IMAm93CxA)
 
 ### Brendan
 * [HW1](https://editor.p5js.org/bleddy/present/lvdcG82U4)
@@ -58,11 +61,13 @@
 * [HW2](https://editor.p5js.org/alinux_xx/sketches/u9y2aEytd)
 * [HW3](https://editor.p5js.org/alinux_xx/sketches/cw39xz3fw)
 * [Midterm](https://editor.p5js.org/alinux_xx/sketches/zNehoQdDc)
+* [HW4](https://editor.p5js.org/alinux_xx/sketches/vaPXl_fpA)
 
 ### So Jeong
 * [HW1](https://editor.p5js.org/ssim3/sketches/EbeGIzi-z)
 * [HW2](https://editor.p5js.org/ssim3/sketches/j7rMpNjJr)
 * [Midterm](https://editor.p5js.org/ssim3/sketches/Y79PyLCvb)
+* [HW4](https://editor.p5js.org/ssim3/sketches/xg0aTfIyZ)
 
 
 
