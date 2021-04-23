@@ -66,6 +66,7 @@
 ### So Jeong
 * [HW1](https://editor.p5js.org/ssim3/sketches/EbeGIzi-z)
 * [HW2](https://editor.p5js.org/ssim3/sketches/j7rMpNjJr)
+* [HW3](https://editor.p5js.org/ssim3/sketches/lUTrKScy7)
 * [Midterm](https://editor.p5js.org/ssim3/sketches/Y79PyLCvb)
 * [HW4](https://editor.p5js.org/ssim3/sketches/xg0aTfIyZ)
 
