@@ -61,6 +61,7 @@
 
 ### Zhiwei
 * [HW1](https://editor.p5js.org/zhiv_liu/sketches/rRF_fQA38)
+* [HW2](https://editor.p5js.org/zliu11/sketches/6SeD-6zGZ)
 * [HW3](https://editor.p5js.org/zhiv_liu/sketches/Fh5g72s50)
 * [Midterm](https://editor.p5js.org/zhiv_liu/sketches/Td3-0fPKO)
 * [Midterm](https://editor.p5js.org/zhiv_liu/sketches/i3b9YrMbq)
